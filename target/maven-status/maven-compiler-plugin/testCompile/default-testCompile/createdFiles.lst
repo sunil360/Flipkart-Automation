@@ -1,0 +1,4 @@
+com\flipkart\constant\GlobalConstant.class
+com\flipkart\dataproviders\DataProviders.class
+com\flipkart\selenium\framework\Configuration.class
+com\flipkart\constant\GlobalConstant$FileNames.class
